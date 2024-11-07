@@ -1,0 +1,11 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {part}{I\hspace {1em}Entrega 1}{1}{part.1}%
+\contentsline {section}{\numberline {1}Introducción}{1}{section.1}%
+\contentsline {section}{\numberline {2}Modelo}{2}{section.2}%
+\contentsline {section}{\numberline {3}Resultados}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Caso de 2 vanos}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Caso de 4 vanos}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Caso de 8 vanos}{9}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Caso de 16 vanos}{11}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Comparación de los casos}{14}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Conclusión}{16}{section.4}%
